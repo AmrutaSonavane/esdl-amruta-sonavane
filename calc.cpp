@@ -5,3 +5,8 @@ void main()
 
 }
 
+double(double a, double)
+{
+    return a+b;
+}
+
